@@ -38,10 +38,6 @@
             android:name="AccessoryServicesLocation"
             android:value="/res/xml/accessoryservices.xml" />
 
-        <activity
-            android:name="com.samsung.android.example.helloaccessoryprovider.service.PairingPC"
-            android:label="@string/title_activity_pairing_pc" >
-        </activity>
     </application>
 
 </manifest>
